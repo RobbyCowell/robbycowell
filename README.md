@@ -15,7 +15,9 @@ I'm currently a lead software engineer at [McKesson](https://github.com/mckesson
 
 ## How to get in touch:
 Twitter: [@RobbyCowell](https://twitter.com/RobbyCowell)
+
 LinkedIn: [Robert Cowell](https://www.linkedin.com/in/robbycowell/)
+
 Email: robby[dot]cowell[at]gmail.com
 
 ## Want to volunteer with Easy EC?
