@@ -2,7 +2,7 @@
 
 I'm a software engineer and leader specializing in front-end development.
 
-I'm the co-founder of the non-profit organization [Easy EC](https://easyec.org), a web app to help people access emergency contraception.
+I'm the co-founder of the non-profit organization [Easy EC](https://easyec.org), a webapp to increase access to emergency contraception for those who need it most.
 
 I'm currently a lead software engineer at [McKesson](https://github.com/mckesson), focusing on improving cancer care.
 
