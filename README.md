@@ -11,8 +11,7 @@ I'm currently a lead software engineer at [McKesson](https://github.com/mckesson
 - 🌱  I’m learning: DAP and Ethereum development (Solidity and Vyper)
 - 🔭  I’m currently working on a new website and Easy EC 1.0 (as well as migrating to GitHub)
 - ⏱  I used to work at Google
-- 🇬🇧  I'm from England and now live in Seattle
-
+- 🇬🇧  I'm from England and now live in Seattle 🇺🇸
 ## How to get in touch:
 Twitter: [@RobbyCowell](https://twitter.com/RobbyCowell)
 
