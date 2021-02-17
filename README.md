@@ -22,8 +22,6 @@ Email: robby[dot]cowell[at]gmail.com
 ## Want to volunteer with Easy EC?
 Awesome! Send me a message with a sentence or two about you and your skills and let's talk!
 
-BAT token tips are always appreciated too!
-
 <!--
 **RobbyCowell/robbycowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
