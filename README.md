@@ -1,6 +1,6 @@
 ### Hey, I'm Robby. Nice to meet you! 👋
 
-I'm a software engineer and leader specializing in front-end development.
+I'm a lead software engineer specializing in front-end development.
 
 I'm the co-founder of the non-profit organization [Easy EC](https://easyec.org), a webapp to increase access to emergency contraception for those who need it most.
 
