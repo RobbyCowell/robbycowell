@@ -11,7 +11,7 @@ I'm working on an evolving personal project of engineering exploration called th
 ## Some more stuff about me:
 - 😄  Pronouns: He/Him
 - 🌱  I’m learning: DAP and Ethereum development (Solidity and Vyper)
-- 🔭  I’m currently working on a new website and Easy EC 1.0 (as well as migrating to GitHub)
+- 🔭  I’m currently working on [a new website](https://github.com/RobbyCowell/site) and Easy EC 1.0
 - ⏱  I used to work at Google
 - 🇬🇧  I'm from England and now live in Seattle 🇺🇸
 ## How to get in touch:
