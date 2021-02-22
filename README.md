@@ -6,6 +6,8 @@ I'm the co-founder of the non-profit organization [Easy EC](https://easyec.org),
 
 I'm currently a lead software engineer at [McKesson](https://github.com/mckesson), focusing on improving cancer care.
 
+I'm working on an evolving personal project of engineering exploration called the ['site'](https://github.com/RobbyCowell/site).
+
 ## Some more stuff about me:
 - 😄  Pronouns: He/Him
 - 🌱  I’m learning: DAP and Ethereum development (Solidity and Vyper)
