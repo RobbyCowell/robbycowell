@@ -9,17 +9,14 @@ I'm currently a lead software engineer at [McKesson](https://github.com/mckesson
 I'm working on an evolving personal project of engineering exploration called the ['site'](https://github.com/RobbyCowell/site).
 
 ## Some more stuff about me:
-- 😄  Pronouns: He/Him
-- 🌱  I’m learning: DAP and Ethereum development (Solidity and Vyper)
 - 🔭  I’m currently working on [a new website](https://github.com/RobbyCowell/site) and Easy EC 1.0
 - ⏱  I used to work at Google
 - 🇬🇧  I'm from England and now live in Seattle 🇺🇸
 ## How to get in touch:
+
 Twitter: [@RobbyCowell](https://twitter.com/RobbyCowell)
 
 LinkedIn: [Robert Cowell](https://www.linkedin.com/in/robbycowell/)
-
-Email: robby[dot]cowell[at]gmail.com
 
 ## Want to volunteer with Easy EC?
 Awesome! Send me a message with a sentence or two about you and your skills and let's talk!
